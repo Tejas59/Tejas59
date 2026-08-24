@@ -77,30 +77,43 @@ AWS · Serverless · Containers · Scalability · Reliability · Observability
 
 ### Databases & Data
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge\&logo=amazondynamodb)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge\&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 
-`Amazon Neptune` · `Gremlin` · `OpenSearch`
+![Amazon Neptune](https://img.shields.io/badge/Amazon_Neptune-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gremlin](https://img.shields.io/badge/Gremlin-6DB33F?style=for-the-badge&logo=apache&logoColor=white)
 
-### AI / Generative AI
+### 🤖 AI / Generative AI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge\&logo=openai)
-![Gemini](https://img.shields.io/badge/Google_Gemini-000?style=for-the-badge\&logo=googlegemini)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
-`RAG` · `Embeddings` · `Vector Search` · `Pinecone` · `Prompt Engineering` · `AI Agents` · `MCP`
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-111827?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-111827?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge\&logo=amazonwebservices)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-`AWS Lambda` · `S3` · `EC2` · `DynamoDB` · `CloudWatch` · `API Gateway` · `BullMQ`
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
 
 ## 🚀 Selected Engineering Work
 
