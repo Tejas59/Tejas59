@@ -230,9 +230,12 @@ I'm always interested in discussing:
 
 `Software Engineering` · `System Design` · `AI` · `AWS` · `Startups` · `Distributed Systems`
 
-**LinkedIn:** (https://www.linkedin.com/in/tejas-vaidya59)
-**Email:** 
-**Resume:** (https://drive.google.com/file/d/18WBMFPhixt-sGTSuJGv17N_ohXUaJ3Xs/view)
+I'm open to opportunities in **Full-Stack Engineering, Backend Engineering, and AI/LLM Development**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-vaidya59)
+[![Resume](https://img.shields.io/badge/Resume-View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18WBMFPhixt-sGTSuJGv17N_ohXUaJ3Xs/view)
+
+**Let's build something impactful.** Feel free to reach out to me on LinkedIn for opportunities, collaborations, or engineering discussions.
 
 ---
 
