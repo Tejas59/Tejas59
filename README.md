@@ -230,9 +230,9 @@ I'm always interested in discussing:
 
 `Software Engineering` · `System Design` · `AI` · `AWS` · `Startups` · `Distributed Systems`
 
-**LinkedIn:** Add your LinkedIn URL here
-**Email:** Add your professional email here
-**Resume:** Add your resume URL here
+**LinkedIn:** (https://www.linkedin.com/in/tejas-vaidya59)
+**Email:** 
+**Resume:** (https://drive.google.com/file/d/18WBMFPhixt-sGTSuJGv17N_ohXUaJ3Xs/view)
 
 ---
 
